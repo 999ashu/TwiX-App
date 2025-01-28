@@ -1,7 +1,7 @@
 # TwiX App
 
 ## Description
-### TwiX is microbloggign app. The key feature is the ability to add up to 3 emojis to a post, describing the user's mood and adding expressivity to your thoughts.
+### TwiX is microblogging app. The key feature is the ability to add up to 3 emojis to a post, describing the user's mood and adding expressivity to your thoughts.
 
 ## Features and technologies
 * Auth flow is implemented on `UIKit`.
